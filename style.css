@@ -143,7 +143,8 @@ body
 {
     flex-grow: 1;
     flex-basis: 20%;
-    margin: 5px;
+    margin: 15px;
+    width: 200px;
 }
 .course__card img
 {
